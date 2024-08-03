@@ -1,0 +1,18 @@
+/* src/Login.css */
+
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 80vh;
+  /* Adjust background color if needed */
+}
+
+.card-container {
+  width: 100%;
+  max-width: 500px; /* Adjust the width of the card as needed */
+}
+
+.card {
+  background-color: white;
+}
